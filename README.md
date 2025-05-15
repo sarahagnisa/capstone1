@@ -3,11 +3,16 @@ Purwadhika_Capstone1
 
 # **Client - Procurement Management System (CPMS)**
 
-The Client - Procurement Management System (CPMS) is a terminal-based procurement management tool designed as a learning exercise for Python programming. It was created as part of the requirements for Purwadhika's Data Science & Machine Learning Course. This program demonstrates the basics of Python while providing practical functionality for managing procurement and inventory data.
+** Preface
+This project was created as part of the Capstone Module 1 for the Purwadhika Data Science & Machine Learning Program. The goal is to practice foundational Python programming skills by developing a functional, real-world terminal-based application. The system simulates the management of procurement data in an organization.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Introduction
-The CPMS is ideal for professionals working on a client-project basis, helping them efficiently manage and track their assets. Users can perform essential operations such as creating, updating, viewing, and deleting to manage the procurement and inventory records.
+The Client - Procurement Management System (CPMS) is a Python-based application that helps users manage procurement records such as computers, furniture, and other assets. Built with simple Python libraries like datetime and tabulate, this CLI-based system allows users to view, add, edit, and delete procurement data.
+The application uses dictionaries as a data structure to simulate a lightweight in-memory database and is designed for learning purposes.
 
 --------------------------------------------------------------------------------------------------------------------------------
+
+# Features
+| Features | 
